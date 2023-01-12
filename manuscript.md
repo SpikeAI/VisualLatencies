@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-12" />
   <meta name="citation_publication_date" content="2023-01-12" />
   <meta property="article:published_time" content="2023-01-12" />
-  <meta name="dc.modified" content="2023-01-12T07:38:11+00:00" />
-  <meta property="article:modified_time" content="2023-01-12T07:38:11+00:00" />
+  <meta name="dc.modified" content="2023-01-12T07:38:44+00:00" />
+  <meta property="article:modified_time" content="2023-01-12T07:38:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://SpikeAI.github.io/VisualLatencies/" />
   <meta name="citation_pdf_url" content="https://SpikeAI.github.io/VisualLatencies/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://SpikeAI.github.io/VisualLatencies/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://SpikeAI.github.io/VisualLatencies/v/ddf741dec1ad33962534aa3e59192903319fe01a/" />
-  <meta name="manubot_html_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/ddf741dec1ad33962534aa3e59192903319fe01a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/ddf741dec1ad33962534aa3e59192903319fe01a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://SpikeAI.github.io/VisualLatencies/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/" />
+  <meta name="manubot_html_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://SpikeAI.github.io/VisualLatencies/v/ddf741dec1ad33962534aa3e59192903319fe01a/))
+([permalink](https://SpikeAI.github.io/VisualLatencies/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/))
 was automatically generated
-from [SpikeAI/VisualLatencies@ddf741d](https://github.com/SpikeAI/VisualLatencies/tree/ddf741dec1ad33962534aa3e59192903319fe01a)
+from [SpikeAI/VisualLatencies@b7a5c3f](https://github.com/SpikeAI/VisualLatencies/tree/b7a5c3f80d23ecb53de321822e2a2239209e01c7)
 on January 12, 2023.
 </em></small>
 
