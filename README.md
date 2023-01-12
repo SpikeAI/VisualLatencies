@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Latencies in the Visual Cortex
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
