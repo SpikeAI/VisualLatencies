@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-12" />
   <meta name="citation_publication_date" content="2023-01-12" />
   <meta property="article:published_time" content="2023-01-12" />
-  <meta name="dc.modified" content="2023-01-12T07:44:06+00:00" />
-  <meta property="article:modified_time" content="2023-01-12T07:44:06+00:00" />
+  <meta name="dc.modified" content="2023-01-12T13:52:04+00:00" />
+  <meta property="article:modified_time" content="2023-01-12T13:52:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,7 +41,6 @@ header-includes: |
   <meta name="citation_author" content="Laurent U Perrinet" />
   <meta name="citation_author_institution" content="Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université" />
   <meta name="citation_author_orcid" content="0000-0002-9536-010X" />
-  <meta name="twitter:creator" content="@laurentperrinet" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -52,9 +51,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://SpikeAI.github.io/VisualLatencies/" />
   <meta name="citation_pdf_url" content="https://SpikeAI.github.io/VisualLatencies/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://SpikeAI.github.io/VisualLatencies/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://SpikeAI.github.io/VisualLatencies/v/c22ff89d248e5bcad76bc9e4c6436b9b0036a575/" />
-  <meta name="manubot_html_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/c22ff89d248e5bcad76bc9e4c6436b9b0036a575/" />
-  <meta name="manubot_pdf_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/c22ff89d248e5bcad76bc9e4c6436b9b0036a575/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://SpikeAI.github.io/VisualLatencies/v/e4f53699e7d2fc9653904991e3bb04f146884def/" />
+  <meta name="manubot_html_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/e4f53699e7d2fc9653904991e3bb04f146884def/" />
+  <meta name="manubot_pdf_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/e4f53699e7d2fc9653904991e3bb04f146884def/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://SpikeAI.github.io/VisualLatencies/v/c22ff89d248e5bcad76bc9e4c6436b9b0036a575/))
+([permalink](https://SpikeAI.github.io/VisualLatencies/v/e4f53699e7d2fc9653904991e3bb04f146884def/))
 was automatically generated
-from [SpikeAI/VisualLatencies@c22ff89](https://github.com/SpikeAI/VisualLatencies/tree/c22ff89d248e5bcad76bc9e4c6436b9b0036a575)
+from [SpikeAI/VisualLatencies@e4f5369](https://github.com/SpikeAI/VisualLatencies/tree/e4f53699e7d2fc9653904991e3bb04f146884def)
 on January 12, 2023.
 </em></small>
 
@@ -108,8 +107,8 @@ on January 12, 2023.
     [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [laurentperrinet](https://github.com/laurentperrinet)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [laurentperrinet](https://twitter.com/laurentperrinet)
+  · ![Mastodon icon](images/mastodon.svg){.inline_icon}
+  [\@laurentperrinet@neuromatch.social](https://neuromatch.social/@laurentperrinet)
     <br>
   <small>
      Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
