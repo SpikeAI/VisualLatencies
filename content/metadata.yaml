@@ -1,10 +1,12 @@
 ---
-title: "Manuscript Title"
+title: "Latencies in the Visual Cortex"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - vision
+  - latency
+  - macaque
+  - human
+  - neuroscience
 lang: en-US
 authors:
   - github: johndoe
@@ -17,6 +19,15 @@ authors:
       - Department of Something, University of Whatever
     funders:
       - Grant XXXXXXXX
+  - github: laurentperrinet
+    name: Laurent U Perrinet
+    initials: LuP
+    orcid: 0000-0002-9536-010X
+    twitter: laurentperrinet
+    email: laurent.perrinet@univ-amu.fr
+    affiliations:
+      - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
+    funders: ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
   - github: janeroe
     name: Jane Roe
     initials: JR
