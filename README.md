@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/SpikeAI/VisualLatencies/tree/gh-pages) branch hosts the contents of this directory at <https://SpikeAI.github.io/VisualLatencies/>.
-The permalink for this webpage version is <https://SpikeAI.github.io/VisualLatencies/v/8039cacb594b0ba76bef5bd8918d0b8b30b76ae9/>.
+The permalink for this webpage version is <https://SpikeAI.github.io/VisualLatencies/v/c22ff89d248e5bcad76bc9e4c6436b9b0036a575/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://SpikeAI.github.io/VisualLatencies/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`8039cacb594b0ba76bef5bd8918d0b8b30b76ae9`](https://github.com/SpikeAI/VisualLatencies/commit/8039cacb594b0ba76bef5bd8918d0b8b30b76ae9).
+[`c22ff89d248e5bcad76bc9e4c6436b9b0036a575`](https://github.com/SpikeAI/VisualLatencies/commit/c22ff89d248e5bcad76bc9e4c6436b9b0036a575).
