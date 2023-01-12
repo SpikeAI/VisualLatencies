@@ -1,13 +1,16 @@
 ---
-title: Manuscript Title
+title: Latencies in the Visual Cortex
 keywords:
-- markdown
-- publishing
-- manubot
+- vision
+- latency
+- macaque
+- human
+- neuroscience
 lang: en-US
 date-meta: '2023-01-12'
 author-meta:
 - John Doe
+- Laurent U Perrinet
 - Jane Roe
 header-includes: |
   <!--
@@ -16,15 +19,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Latencies in the Visual Cortex" />
+  <meta name="citation_title" content="Latencies in the Visual Cortex" />
+  <meta property="og:title" content="Latencies in the Visual Cortex" />
+  <meta property="twitter:title" content="Latencies in the Visual Cortex" />
   <meta name="dc.date" content="2023-01-12" />
   <meta name="citation_publication_date" content="2023-01-12" />
   <meta property="article:published_time" content="2023-01-12" />
-  <meta name="dc.modified" content="2023-01-12T07:38:44+00:00" />
-  <meta property="article:modified_time" content="2023-01-12T07:38:44+00:00" />
+  <meta name="dc.modified" content="2023-01-12T07:39:29+00:00" />
+  <meta property="article:modified_time" content="2023-01-12T07:39:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,6 +38,10 @@ header-includes: |
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author" content="Laurent U Perrinet" />
+  <meta name="citation_author_institution" content="Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université" />
+  <meta name="citation_author_orcid" content="0000-0002-9536-010X" />
+  <meta name="twitter:creator" content="@laurentperrinet" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -45,9 +52,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://SpikeAI.github.io/VisualLatencies/" />
   <meta name="citation_pdf_url" content="https://SpikeAI.github.io/VisualLatencies/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://SpikeAI.github.io/VisualLatencies/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://SpikeAI.github.io/VisualLatencies/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/" />
-  <meta name="manubot_html_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://SpikeAI.github.io/VisualLatencies/v/8039cacb594b0ba76bef5bd8918d0b8b30b76ae9/" />
+  <meta name="manubot_html_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/8039cacb594b0ba76bef5bd8918d0b8b30b76ae9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://SpikeAI.github.io/VisualLatencies/v/8039cacb594b0ba76bef5bd8918d0b8b30b76ae9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://SpikeAI.github.io/VisualLatencies/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/))
+([permalink](https://SpikeAI.github.io/VisualLatencies/v/8039cacb594b0ba76bef5bd8918d0b8b30b76ae9/))
 was automatically generated
-from [SpikeAI/VisualLatencies@b7a5c3f](https://github.com/SpikeAI/VisualLatencies/tree/b7a5c3f80d23ecb53de321822e2a2239209e01c7)
+from [SpikeAI/VisualLatencies@8039cac](https://github.com/SpikeAI/VisualLatencies/tree/8039cacb594b0ba76bef5bd8918d0b8b30b76ae9)
 on January 12, 2023.
 </em></small>
 
@@ -93,6 +100,20 @@ on January 12, 2023.
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
+  </small>
+
++ **Laurent U Perrinet**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [laurentperrinet](https://github.com/laurentperrinet)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [laurentperrinet](https://twitter.com/laurentperrinet)
+    <br>
+  <small>
+     Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
+     · Funded by ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
   </small>
 
 + **Jane Roe**
